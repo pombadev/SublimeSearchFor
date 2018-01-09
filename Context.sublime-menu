@@ -1,6 +1,6 @@
 [
     {
         // "caption": "Search Google For...", // no need as we add it dynamically
-        "command": "search_google_for"
+        "command": "sublime_search_for"
     }
 ]
