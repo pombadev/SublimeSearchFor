@@ -21,7 +21,7 @@ class SublimeSearchForCommand(sublime_plugin.TextCommand):
         else:
             return False
 
-    # adds captions to context menu usi
+    # adds captions to context menu
     def description(self):
         text = self.get_text()
         if text:
