@@ -1,4 +1,4 @@
-# SearchGoogleFor
+# SearchFor
 This is a simple SublimeText plugin that allows you to search for the selected text.
 It will open your default webbrowser and search for the selected text.
 
